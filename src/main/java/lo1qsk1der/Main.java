@@ -1,12 +1,5 @@
 package lo1qsk1der;
 
-
-
-
-
-
-
-
 import java.nio.IntBuffer;
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.glfw.GLFWKeyCallback;
@@ -143,5 +136,5 @@ public class Main {
         glfwTerminate();
         errorCallback.free();
     }
-
+//Hello world
 }
